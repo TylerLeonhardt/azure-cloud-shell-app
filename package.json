@@ -38,8 +38,8 @@
             "electronInstallerDebian": {},
             "electronInstallerRedhat": {},
             "github_repository": {
-                "owner": "",
-                "name": ""
+                "owner": "tylerl0706",
+                "name": "azure-cloud-shell-app"
             },
             "windowsStoreConfig": {
                 "packageName": "",
